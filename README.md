@@ -1,4 +1,4 @@
-# introduction-to-rust
+# rust beginner project
 
 Implementation of a simple CLI based Key Value store.
 
